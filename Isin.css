@@ -1,0 +1,17 @@
+.anybutton {
+     top:35%; 
+     left:100%; 
+     width:100px; 
+     height:35px; 
+     position: absolute; z-index: 2; 
+     background: blue;
+     }
+.input {
+        top:35%; 
+        left:100%; 
+        width:100px; 
+        height:35px; 
+        position: absolute; z-index: 2; 
+        
+        }
+   
